@@ -1,0 +1,19 @@
+{
+  "name": "fullstack-react",
+  "version": "1.0.0",
+  "description": "Fullstack React course - Coursera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paritosh-34/fullstackreact.git"
+  },
+  "author": "Paritosh Batish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paritosh-34/fullstackreact/issues"
+  },
+  "homepage": "https://github.com/paritosh-34/fullstackreact#readme"
+}
